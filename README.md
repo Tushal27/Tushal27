@@ -43,6 +43,7 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps, 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![iText](https://img.shields.io/badge/iText_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
@@ -122,6 +123,7 @@ tushal = {
     "education":    "B.E. Computer Science, Anna University (GPA: 8.46)",
     "current_role": "Software Engineering Intern @ ZakApps",
     "languages":    ["English", "Tamil", "Hindi", "Japanese (学習中)"],
+    "japanese":     "Hiragana ✅ Katakana ✅ | 100 verbs | 40 kanji | 10 grammar points — 2 weeks in 🇯🇵",
     "interests":    ["Product development", "Developer tools", "UI/UX"],
     "philosophy":   "Not which tech — but what it solves for the user.",
     "open_to":      "New grad engineer roles in Japan (2027)",
