@@ -16,9 +16,9 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 
 ### 🚀 What I'm Working On
 
-- 🏗️ **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
+- 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
 - 👓 **[Glarix](https://github.com/Tushal27/glarix)** — Multi-tenant eyewear SaaS built solo end-to-end
-- 💼 **ZakApps** — Production web app development (React / TypeScript / Spring Boot)
+- 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — Client-facing product catalogue, live at bhawanienterprise.co.in
 
 ---
 
@@ -31,6 +31,7 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -63,18 +64,11 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tushal27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1A56A8&icon_color=1A56A8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushal27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1A56A8&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tushal27&theme=tokyonight&hide_border=true&background=0d1117&ring=1A56A8&fire=1A56A8&currStreakLabel=1A56A8)
+[![Tushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushal27&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1A56A8&line=1A56A8&point=ffffff)](https://github.com/Tushal27)
 
 </div>
 
@@ -90,7 +84,7 @@ mindmap
       Does this solve a real problem?
       Ship it — demos don't count
     Broad Stack
-      React · TypeScript
+      React · TypeScript · Angular
       Django · Spring Boot
       Right tool for the job
     Always Learning
@@ -107,11 +101,11 @@ mindmap
 
 ### 🌟 Featured Projects
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | 🟢 Live |
+| Project | Stack | Live |
+|---------|-------|------|
+| 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | [🌐 Open](https://linkd-plus-frontend.vercel.app) |
 | 👓 [**Glarix**](https://github.com/Tushal27/glarix) — Multi-tenant eyewear SaaS | React · Django REST · Cloudinary · Tailwind | 🟢 Live |
-| 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | 🟢 Live |
+| 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
 
 ---
 
@@ -137,7 +131,7 @@ tushal = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushal-j)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajtushal74@gmail.com)
-[![Portfolio](https://img.shields.io/badge/LinkdPlus-Live_App-1A56A8?style=for-the-badge&logo=vercel&logoColor=white)](https://linkd-plus-frontend.vercel.app)
+[![LinkdPlus](https://img.shields.io/badge/LinkdPlus-Live_App-1A56A8?style=for-the-badge&logo=vercel&logoColor=white)](https://linkd-plus-frontend.vercel.app)
 
 </div>
 
