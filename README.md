@@ -10,7 +10,7 @@
 
 I'm a final-year Computer Science student at Anna University building production software while still in college. I think about problems first, technology second — my projects are live because I built things people actually needed, not just for a portfolio.
 
-Currently interning at **ZakApps** shipping production React + TypeScript apps and Spring Boot features daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
+Currently interning at **ZakApps** shipping production React + TypeScript apps, Spring Boot PDF generation features, and React Query-powered data layers daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
 
 ---
 
@@ -32,6 +32,8 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -41,6 +43,8 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![iText](https://img.shields.io/badge/iText_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 **Database & Cloud**
 
@@ -51,6 +55,7 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps a
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -85,8 +90,8 @@ mindmap
       Ship it — demos don't count
     Broad Stack
       React · TypeScript · Angular
-      Django · Spring Boot
-      Right tool for the job
+      Django · Spring Boot · iText PDF
+      Nginx · Docker · Capacitor
     Always Learning
       Japanese 🇯🇵
       New frameworks
