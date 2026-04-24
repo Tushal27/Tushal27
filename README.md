@@ -10,7 +10,7 @@
 
 I'm a final-year Computer Science student at Anna University building production software while still in college. I think about problems first, technology second — my projects are live because I built things people actually needed, not just for a portfolio.
 
-Currently interning at **ZakApps** shipping production React + TypeScript apps, Spring Boot PDF generation features, and React Query-powered data layers daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
+Currently interning at **ZakApps** shipping production React + TypeScript apps, Spring Boot PDF generation features, and Redis OTP systems daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
 
 ---
 
@@ -19,6 +19,7 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps, 
 - 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
 - 👓 **[Glarix](https://github.com/Tushal27/glarix)** — Multi-tenant eyewear SaaS built solo end-to-end
 - 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — Client-facing product catalogue, live at bhawanienterprise.co.in
+- 🛡️ **[SafeSnap](https://github.com/Tushal27/SafeSnap)** — On-device AI image safety for children. Flutter + Spring Boot + React + TensorFlow Lite. Images never leave the device.
 
 ---
 
@@ -28,43 +29,171 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps, 
 
 **Frontend**
 
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+
+
+
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+
+
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
 
 **Backend**
 
+
+
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+
+
 ![iText](https://img.shields.io/badge/iText_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+
+
+
+
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+
 
 **Database & Cloud**
 
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+
+
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+
+
+**Mobile & ML**
+
+
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
+
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
 
 **DevOps & Tools**
 
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 **AI-Augmented Dev**
 
+
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
+
+
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 </div>
 
@@ -74,7 +203,11 @@ Currently interning at **ZakApps** shipping production React + TypeScript apps, 
 
 <div align="center">
 
-[![Tushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushal27&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1A56A8&line=1A56A8&point=ffffff)](https://github.com/Tushal27)
+[
+
+![Tushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushal27&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1A56A8&line=1A56A8&point=ffffff)
+
+](https://github.com/Tushal27)
 
 </div>
 
@@ -90,12 +223,12 @@ mindmap
       Does this solve a real problem?
       Ship it — demos don't count
     Broad Stack
-      React · TypeScript · Angular
+      React · TypeScript · Flutter
       Django · Spring Boot · iText PDF
-      Nginx · Docker · Capacitor
+      Nginx · Docker · TensorFlow Lite
     Always Learning
       Japanese 🇯🇵
-      New frameworks
+      Flutter · Dart · ML
       Business & Design
     Long-term Thinking
       Clean code today
@@ -110,6 +243,7 @@ mindmap
 | Project | Stack | Live |
 |---------|-------|------|
 | 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | [🌐 Open](https://linkd-plus-frontend.vercel.app) |
+| 🛡️ [**SafeSnap**](https://github.com/Tushal27/SafeSnap) — On-device AI child safety | Flutter · Spring Boot · React · TFLite | 🟢 Built |
 | 👓 [**Glarix**](https://github.com/Tushal27/glarix) — Multi-tenant eyewear SaaS | React · Django REST · Cloudinary · Tailwind | 🟢 Live |
 | 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
 
@@ -123,8 +257,8 @@ tushal = {
     "education":    "B.E. Computer Science, Anna University (GPA: 8.46)",
     "current_role": "Software Engineering Intern @ ZakApps",
     "languages":    ["English", "Tamil", "Hindi", "Japanese (学習中)"],
-    "japanese":     "Hiragana ✅ Katakana ✅ | 100 verbs | 40 kanji | 10 grammar points — 2 weeks in 🇯🇵",
-    "interests":    ["Product development", "Developer tools", "UI/UX"],
+    "stack":        ["React", "TypeScript", "Flutter", "Spring Boot", "Django"],
+    "interests":    ["Product development", "Child safety tech", "UI/UX"],
     "philosophy":   "Not which tech — but what it solves for the user.",
     "open_to":      "New grad engineer roles in Japan (2027)",
 }
@@ -136,9 +270,26 @@ tushal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushal-j)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajtushal74@gmail.com)
-[![LinkdPlus](https://img.shields.io/badge/LinkdPlus-Live_App-1A56A8?style=for-the-badge&logo=vercel&logoColor=white)](https://linkd-plus-frontend.vercel.app)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/tushal-j)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:rajtushal74@gmail.com)
+[
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+](https://leetcode.com/u/tushal2712)
+[
+
+![LinkdPlus](https://img.shields.io/badge/LinkdPlus-Live_App-1A56A8?style=for-the-badge&logo=vercel&logoColor=white)
+
+](https://linkd-plus-frontend.vercel.app)
 
 </div>
 
