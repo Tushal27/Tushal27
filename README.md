@@ -9,25 +9,28 @@
 <div align="center">
 
 ```ruby
-       ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        tushal@github
-    ▄██████████████████▄     ─────────────────────────────────────────────
-   ████████████████████▀     ❯ OS ............: India 🇮🇳 ➜ Japan 🇯🇵 (relocating)
-  ████▀▀▀▀▀▀▀▀▀▀▀▀████       ❯ Host ..........: ZakApps — Software Engineering Intern
-  ████    ╭──────╮  ███      ❯ Kernel ........: Full-Stack Engineer · Product-First
-  ████    │  ▷_  │  ███      ❯ Uptime ........: Final year · Anna University (GPA 8.46)
-  ████    ╰──────╯  ███      ─────────────────────────────────────────────
-  ████▄▄▄▄▄▄▄▄▄▄▄▄████       ❯ Languages.Code : TypeScript, Python, Java, Dart, JS
-   ████████████████████▄     ❯ Languages.Real : English, Tamil, Hindi, 日本語 (学習中)
-    ▀██████████████████▀     ❯ IDE ...........: VS Code · IntelliJ IDEA
-       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       ─────────────────────────────────────────────
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄        ❯ Frontend ......: React, TypeScript, Flutter, Tailwind
-     ▄██████████████████▄    ❯ Backend .......: Django REST, Spring Boot, Node
-    ████████████████████▄    ❯ Data & Cloud ..: PostgreSQL, Redis, Supabase, Docker
-    ▀████████████████████    ❯ Currently ......: Building products people actually use
-       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       ─────────────────────────────────────────────
-                             ❯ Contact.Email .: rajtushal74@gmail.com
-                             ❯ Contact.LinkedIn: /in/tushal-j
-                             ❯ Contact.LeetCode: /u/tushal2712
+                .-=*###*=---:.
+             :+%@@@@@@@@@@@@@@%+.              tushal@github
+           -%@@@@@@@@@@@@@@@@@@@@=             ──────────────────────────────────────────────
+         :*@@@@@@@@@@@@@@@@@@@@@@@-            ❯ OS ............: India 🇮🇳 ➜ Japan 🇯🇵 (relocating)
+       :#@@@@@@@@@@@@@@@%%@@@@@@@@*            ❯ Host ..........: ZakApps — Software Engineering Intern
+      .%@@@@@@@%#***==---:-=*%@@@@=            ❯ Kernel ........: Full-Stack Engineer · Product-First
+       .*@@@@%#+=---:....  .:=%@@@.            ❯ Uptime ........: Final year · Anna University (GPA 8.46)
+         #@@%##*=---::..    .:=%@@.            ──────────────────────────────────────────────
+         =@@#%%%*+-::::--===-:.=@%             ❯ Languages.Code : TypeScript, Python, Java, Dart, JS
+         -@##@%###+-:::=++=::-:.%#.            ❯ Languages.Real : English, Tamil, Hindi, 日本語 (学習中)
+        .*@#%@@%%*%%*--*%%#==:-:*:.            ❯ IDE ...........: VS Code · IntelliJ IDEA
+        =@%##%%%%*%@#-*=+*=:: -.::-            ──────────────────────────────────────────────
+        :@@#+#*++*%@+.:-:::...:.:--            ❯ Frontend ......: React, TypeScript, Flutter, Tailwind
+         +@@****+#%%*:.::--:......             ❯ Backend .......: Django REST, Spring Boot, Node
+          :-*%##*#%%#=-:.::.....               ❯ Data & Cloud ..: PostgreSQL, Redis, Supabase, Docker
+            -%%%%#@@#++----....                ──────────────────────────────────────────────
+             =%%%##*+=-.   ...                 ❯ Email .........: rajtushal74@gmail.com
+             :+@@%#*=:.   .:::.                ❯ LinkedIn ......: /in/tushal-j
+           :#*.%@@@%*+=---:.:-:*:              ❯ LeetCode ......: /u/tushal2712
+         :*@@- :#@@@#=-::...=. #@+.
+   ..-=*%@@@@=  .+@@%-:....:   +@@@%*=:.
+ #%@@@@@@@@@@*    :+*=::..     *@@@@@@@@%
 ```
 
 </div>
