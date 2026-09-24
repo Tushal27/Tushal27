@@ -6,48 +6,24 @@
 
 ---
 
+# Hi, I'm Tushal 👋
+
+**Software Engineer @ ZakApps** · Full-stack & AI engineering · Chennai, India → open to Japan
+
+I build and own production systems end to end: an employee-onboarding platform serving
+950+ employees across the UK, Ireland and France, with AI document verification and
+contract generation.
+
 <div align="center">
 
 ```ruby
-                  .:+%@WMMMMMMMW@*+*##*=:-
-               .*NMMMMMMMMMMMMMMMMMMMMMMMWN*:
-            .+@MMMMMMMMMMMMMMMMMMMMMMMMMMMMWW#:
-          .%MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN*.
-         =WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW*
-       -%MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@=
-    .*WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW+.
-   -WMMMMMMMMMMMMMMMMMMMMMMMWWN@%%@NWMMMMMMMMMMMWN:
-  :MMMMMMMMMMMMMMWN%%%%%#*++=====::::=#@WMMMMMMMW*
-  .#MMMMMMMMMMMN%#*++====:-...---...---:*%WMMMMW#.
-    -NMMMMMMMN@%#*+==:=:--......     ..-:*%WMMMM#
-      NMMMMMN%@@%*+=::::--..-.        ..-+#%NMMMN
-      .WMMMW@%@@@#*+=::::----..        ..-:#NWMM+
-       @MMM@%%@%%#+==::----------------.  .:@MMM=
-       %MMW#%@NWWWN@#+:------:=+**######*:..-NMM:
-       #MM%#@MMWWNNWN%+:------::===:-  .-+:. #MM=
-       =MM#%WN@%#+++#%%#++=--:+*%%#*+=::::-.-%N#
-      #NMM%%@NWWWWWN%%@WMN*:-=#%WNWN%**=--+::+%
-     +MWNW@@@@WMMWMN+%WNN@*=+%=*N%N@+:=:. == -#
-     *MNN@%##@%@@%@%#%NNWN+.=N::=++=:-..  -= .:
-     -MWMW#*#%%#****+#NNM@=. ** .-----.   +. ..
-      #MMW%#+#%##*+*#@NN%+:   :+-:--. ..:=. .-
-      -WMMW%#*###**#%@W@@%:  :.-=+*+=:--.  ..
-       :@NN%%@@%%####@W@NW%=-:=   .--.    ..
-         . =@@@@%%%#%@@@N%+:=-.-.....---..
-           .%@@N@@NN@MWN@%#**+====#+.....
-            =@@NN@@%#NMMWN*+++:::--:-....
-             *NNNN@%%#%%%%**+=-.    ....
-              =@NNN@%%%#+=+==-.      ..
-              -=WNNN@%%##+=-.       .--
-            =W* NWWWWN@%#*=::-. ..-::-.
-
     ┌─────────────────────────────────────────────────┐
      tushal@github
     └─────────────────────────────────────────────────┘
      ❯ OS ............: India 🇮🇳 ➜ Japan 🇯🇵 (relocating)
-     ❯ Host ..........: ZakApps — Software Engineering Intern
+     ❯ Host ..........: ZakApps — Software Engineer
      ❯ Kernel ........: Full-Stack Engineer · Product-First
-     ❯ Uptime ........: Final year · Anna University (GPA 8.46)
+     ❯ Uptime ........: B.E. CSE, Anna University (GPA 8.46)
     ───────────────────────────────────────────────────
      ❯ Languages.Code : TypeScript, Python, Java, Dart, JS
      ❯ Languages.Real : English, Tamil, Hindi, 日本語 (学習中)
@@ -68,9 +44,9 @@
 
 ### 👋 Hey, I'm Tushal
 
-I'm a final-year Computer Science student at Anna University building production software while still in college. I think about problems first, technology second — my projects are live because I built things people actually needed, not just for a portfolio.
+I'm a Software Engineer at ZakApps in Chennai building production software. I think about problems first, technology second — my projects are live because I built things people actually needed, not just for a portfolio.
 
-Currently interning at **ZakApps** shipping production React + TypeScript apps, Spring Boot PDF generation features, and Redis OTP systems daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
+Building production onboarding and AI systems at **ZakApps**, shipping React + TypeScript apps, Spring Boot PDF generation features, and Redis OTP systems daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
 
 ---
 
@@ -306,6 +282,7 @@ mindmap
 | 🛡️ [**SafeSnap**](https://github.com/Tushal27/SafeSnap) — On-device AI child safety | Flutter · Spring Boot · React · TFLite | 🟢 Built |
 | 👓 [**Glarix**](https://github.com/Tushal27/glarix) — Multi-tenant eyewear SaaS | React · Django REST · Cloudinary · Tailwind | 🟢 Live |
 | 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
+| 🧠 [**Lattice**](https://github.com/Tushal27/lattice) — Personal knowledge system ("second brain") with a knowledge graph, spaced daily review and an AI agent | Next.js · React · TypeScript · Prisma · libSQL/Turso | [🌐 Open](https://lattice-pink.vercel.app) |
 
 ---
 
@@ -315,12 +292,12 @@ mindmap
 tushal = {
     "location":     "Chennai, India 🇮🇳 → Japan 🇯🇵 (relocating)",
     "education":    "B.E. Computer Science, Anna University (GPA: 8.46)",
-    "current_role": "Software Engineering Intern @ ZakApps",
+    "current_role": "Software Engineer @ ZakApps",
     "languages":    ["English", "Tamil", "Hindi", "Japanese (学習中)"],
     "stack":        ["React", "TypeScript", "Flutter", "Spring Boot", "Django"],
     "interests":    ["Product development", "Child safety tech", "UI/UX"],
     "philosophy":   "Not which tech — but what it solves for the user.",
-    "open_to":      "New grad engineer roles in Japan (2027)",
+    "open_to":      "Software engineer roles in Japan",
 }
 ```
 
