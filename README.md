@@ -52,7 +52,6 @@ Building production onboarding and AI systems at **ZakApps**, shipping React + T
 
 - 🛡️ **[SafeSnap](https://github.com/Tushal27/SafeSnap)** — on-device AI image safety for children's phones; images never leave the device. [Parent dashboard](https://safesnap.vercel.app) · [Android app download](https://safesnap-app.vercel.app). Flutter · Spring Boot · React · TensorFlow Lite
 - 🧠 **[Lattice](https://github.com/Tushal27/Lattice)** — a personal "second brain": knowledge graph, spaced daily review and an AI agent. [Live demo](https://lattice-demo-ai.vercel.app). Next.js · TypeScript · Prisma
-- 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — a career social platform. Live, with real users. React · Django REST · JWT · PostgreSQL
 - 📱 **ZeroNihongo** — native Android app for JLPT N5: offline SM-2 spaced repetition, an AI tutor with streaming replies, and quizzes generated from what you've actually studied; Spring Boot backend on GCP Cloud Run. Google Play: in testing · [website](https://zeronihongo.com) · source private. Kotlin · Jetpack Compose · Spring Boot
 
 ### 🔬 Engineering Project
@@ -61,7 +60,11 @@ Building production onboarding and AI systems at **ZakApps**, shipping React + T
 
 ### 🤝 Client Work
 
-- 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — product catalogue built for a client, live at bhawanienterprise.co.in. React · Supabase
+- 🛍️ **Bhawani Enterprises** — product catalogue built for a client (React · Supabase). The hosted backend is currently offline, so this one is source-only: [code](https://github.com/Tushal27/bhawani-enterprises).
+
+### 🗄️ Archived Projects
+
+- 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** ([backend](https://github.com/Tushal27/LinkdPLus_backend)) — a career social platform built solo: React · Django REST · JWT · PostgreSQL. Archived: the hosted backend is offline, so it is source-only.
 
 ---
 
@@ -294,9 +297,9 @@ mindmap
 | Project | Stack | Live |
 |---------|-------|------|
 | 🔎 [**Hybrid product search**](https://github.com/Tushal27/hybrid-product-search) — 890k products, evaluated + load-tested | Python · FAISS · PyTorch · FastAPI · Docker · CI | 🟢 Built, [📊 results](https://github.com/Tushal27/hybrid-product-search#search-quality) |
-| 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | [🌐 Open](https://linkd-plus-frontend.vercel.app) |
+| 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | Archived (backend offline) |
 | 🛡️ [**SafeSnap**](https://github.com/Tushal27/SafeSnap) — On-device AI child safety | Flutter · Spring Boot · React · TFLite | [🌐 Dashboard](https://safesnap.vercel.app) · [📱 App](https://safesnap-app.vercel.app) |
-| 🛍️ **Bhawani Enterprises** — Product catalogue (client project) | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
+| 🛍️ **Bhawani Enterprises** — Product catalogue (client project) | React · Supabase · PostgreSQL | Archived (backend offline) |
 | 🧠 [**Lattice**](https://github.com/Tushal27/lattice) — Personal knowledge system ("second brain") with a knowledge graph, spaced daily review and an AI agent | Next.js · React · TypeScript · Prisma · libSQL/Turso | [🌐 Open](https://lattice-demo-ai.vercel.app) |
 | 📱 [**ZeroNihongo**](https://zeronihongo.com) — Japanese-learning Android app (SM-2, AI tutor) | Kotlin · Jetpack Compose · Spring Boot · GCP Cloud Run | 🧪 In testing on Google Play · source private |
 
@@ -338,11 +341,6 @@ tushal = {
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ](https://leetcode.com/u/tushal2712)
-[
-
-![LinkdPlus](https://img.shields.io/badge/LinkdPlus-Live_App-1A56A8?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://linkd-plus-frontend.vercel.app)
 
 </div>
 
