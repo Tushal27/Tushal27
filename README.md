@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A8&height=200&section=header&text=Tushal%20J&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20for%20Users&descAlignY=58&descSize=20&descColor=D0E4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A8&height=200&section=header&text=Tushal%20J&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%7C%20Building%20for%20Users&descAlignY=58&descSize=20&descColor=D0E4FF" width="100%"/>
 
 </div>
 
@@ -22,7 +22,7 @@ contract generation.
     └─────────────────────────────────────────────────┘
      ❯ OS ............: India 🇮🇳 ➜ Japan 🇯🇵 (relocating)
      ❯ Host ..........: ZakApps — Software Engineer
-     ❯ Kernel ........: Full-Stack Engineer · Product-First
+     ❯ Kernel ........: Full-Stack & AI Engineer · Product-First
      ❯ Uptime ........: B.E. CSE, Anna University (GPA 8.46)
     ───────────────────────────────────────────────────
      ❯ Languages.Code : TypeScript, Python, Java, Dart, JS
@@ -42,20 +42,19 @@ contract generation.
 
 ---
 
-### 👋 Hey, I'm Tushal
-
 I'm a Software Engineer at ZakApps in Chennai building production software. I think about problems first, technology second — my projects are live because I built things people actually needed, not just for a portfolio.
 
 Building production onboarding and AI systems at **ZakApps**, shipping React + TypeScript apps, Spring Boot PDF generation features, and Redis OTP systems daily. Actively learning Japanese 🇯🇵 and working towards relocating to Japan.
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Featured Work
 
-- 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
-- 👓 **[Glarix](https://github.com/Tushal27/glarix)** — Multi-tenant eyewear SaaS built solo end-to-end
-- 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — Client-facing product catalogue, live at bhawanienterprise.co.in
+- 🔎 **[Hybrid product search](https://github.com/Tushal27/hybrid-product-search)** — semantic + keyword search with a reranker over 890,837 products, scored against human relevance labels with confidence intervals, load-tested (the first version collapsed at 3 req/s; the rewrite refuses excess load instead). Python · FAISS · FastAPI · Docker · GitHub Actions
+- 🧠 **[Lattice](https://github.com/Tushal27/lattice)** — a personal "second brain": knowledge graph, spaced daily review and an AI agent. [Live demo](https://lattice-pink.vercel.app). Next.js · TypeScript · Prisma
 - 🛡️ **[SafeSnap](https://github.com/Tushal27/SafeSnap)** — On-device AI image safety for children. Flutter + Spring Boot + React + TensorFlow Lite. Images never leave the device.
+- 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
+- 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — Client-facing product catalogue, live at bhawanienterprise.co.in
 
 ---
 
@@ -184,6 +183,15 @@ Building production onboarding and AI systems at **ZakApps**, shipping React + T
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
 
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -278,9 +286,9 @@ mindmap
 
 | Project | Stack | Live |
 |---------|-------|------|
+| 🔎 [**Hybrid product search**](https://github.com/Tushal27/hybrid-product-search) — 890k products, evaluated + load-tested | Python · FAISS · PyTorch · FastAPI · Docker · CI | 🟢 Built, [📊 results](https://github.com/Tushal27/hybrid-product-search#search-quality) |
 | 🔗 [**LinkdPlus**](https://github.com/Tushal27/LinkdPlus-Frontend) — Career social platform | React · Django REST · JWT · PostgreSQL | [🌐 Open](https://linkd-plus-frontend.vercel.app) |
 | 🛡️ [**SafeSnap**](https://github.com/Tushal27/SafeSnap) — On-device AI child safety | Flutter · Spring Boot · React · TFLite | 🟢 Built |
-| 👓 [**Glarix**](https://github.com/Tushal27/glarix) — Multi-tenant eyewear SaaS | React · Django REST · Cloudinary · Tailwind | 🟢 Live |
 | 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
 | 🧠 [**Lattice**](https://github.com/Tushal27/lattice) — Personal knowledge system ("second brain") with a knowledge graph, spaced daily review and an AI agent | Next.js · React · TypeScript · Prisma · libSQL/Turso | [🌐 Open](https://lattice-pink.vercel.app) |
 
