@@ -52,6 +52,7 @@ Building production onboarding and AI systems at **ZakApps**, shipping React + T
 
 - 🔎 **[Hybrid product search](https://github.com/Tushal27/hybrid-product-search)** — semantic + keyword search with a reranker over 890,837 products, scored against human relevance labels with confidence intervals, load-tested (the first version collapsed at 3 req/s; the rewrite refuses excess load instead). Python · FAISS · FastAPI · Docker · GitHub Actions
 - 🧠 **[Lattice](https://github.com/Tushal27/lattice)** — a personal "second brain": knowledge graph, spaced daily review and an AI agent. [Live demo](https://lattice-pink.vercel.app). Next.js · TypeScript · Prisma
+- 📱 **[ZeroNihongo](https://zeronihongo.com)** — native Android app for JLPT N5: offline SM-2 spaced repetition, an AI tutor with streaming replies, and quizzes generated from what you've actually studied; Spring Boot backend on GCP Cloud Run. Google Play: in testing (source is private). Kotlin · Jetpack Compose · Spring Boot
 - 🛡️ **[SafeSnap](https://github.com/Tushal27/SafeSnap)** — On-device AI image safety for children. Flutter + Spring Boot + React + TensorFlow Lite. Images never leave the device.
 - 🔗 **[LinkdPlus](https://github.com/Tushal27/LinkdPlus-Frontend)** — A career social platform. Live, with real users. React + Django REST + JWT + PostgreSQL
 - 🛍️ **[Bhawani Enterprises](https://bhawanienterprise.co.in)** — Client-facing product catalogue, live at bhawanienterprise.co.in
@@ -291,6 +292,7 @@ mindmap
 | 🛡️ [**SafeSnap**](https://github.com/Tushal27/SafeSnap) — On-device AI child safety | Flutter · Spring Boot · React · TFLite | 🟢 Built |
 | 🛍️ **Bhawani Enterprises** — Product catalogue | React · Supabase · PostgreSQL | [🌐 Open](https://bhawanienterprise.co.in) |
 | 🧠 [**Lattice**](https://github.com/Tushal27/lattice) — Personal knowledge system ("second brain") with a knowledge graph, spaced daily review and an AI agent | Next.js · React · TypeScript · Prisma · libSQL/Turso | [🌐 Open](https://lattice-pink.vercel.app) |
+| 📱 [**ZeroNihongo**](https://zeronihongo.com) — Japanese-learning Android app (SM-2, AI tutor) | Kotlin · Jetpack Compose · Spring Boot · GCP Cloud Run | 🧪 In testing on Google Play · source private |
 
 ---
 
